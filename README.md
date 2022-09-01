@@ -27,3 +27,9 @@
 <i>"Do What You Gotta Do So You Can Do What You Wanna Do"</i><br>
 Denzel Washington
 </p>
+
+<p align='center'>
+<img src="https://miro.medium.com/max/875/1*ksawbKUaO01WMwIV4a5dQw.jpeg"></img><br>
+<i>"Integrity is the ability to stand by an idea"</i>
+<br>Ayn Rand
+</p>
